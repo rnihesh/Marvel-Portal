@@ -1,0 +1,29 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.text-white {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.nav-link {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.homeheader {
+  background: rgb(32, 32, 32);
+}
+.homeHeader .border-bottom {
+  border-bottom: 0.1px solid rgba(255, 255, 255, 0.2);
+}
+
+.homeHeader .border-start {
+  border-left: 0.1px solid rgba(255, 255, 255, 0.2);
+}
+
+.homeHeader .border-end {
+  border-right: 0.1px solid rgba(255, 255, 255, 0.2);
+}
